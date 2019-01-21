@@ -1,5 +1,10 @@
-# hello-world
-first babe
-
-
-Hi guys i don't know what i am doing
+    //iostream kütüphanesini ekledik
+#include <iostream>
+    
+    //standart namespace kullanıyoruz
+using namespace std;
+  int main(){
+  cout<<"merhaba dünya<< endl;
+  return 0;
+  
+  }
